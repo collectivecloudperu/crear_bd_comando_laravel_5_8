@@ -19,4 +19,4 @@ php artisan make:database nombredetubasededatos mysql utf8-unicode
 <br>
 
 <strong>Tutorial: </strong><br>
-
+https://www.youtube.com/watch?v=WB3ZtTH2EtE 
