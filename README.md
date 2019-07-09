@@ -1,5 +1,5 @@
 # Como Crear una Base de Datos MySQL Mediante Comando en Laravel 5.8 
-Mediante este comando en Laravel 5.8 crearemos una Base de Datos MySQL.
+Mediante este comando en Laravel 5.8 podemos crear una Base de Datos MySQL.
 
 <strong>Sintaxis del Comando: </strong><br>
 php artisan make:database {nombredetubasededatos} {tipo} {cotejamiento}
