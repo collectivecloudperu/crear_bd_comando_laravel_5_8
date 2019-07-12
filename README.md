@@ -18,5 +18,8 @@ php artisan make:database nombredetubasededatos mysql utf8-unicode
 
 <br>
 
-<strong>Tutorial: </strong><br>
+<strong>Video Tutorial: </strong><br>
 https://www.youtube.com/watch?v=WB3ZtTH2EtE 
+
+<strong> Tutorial (Blog) </strong><br>
+http://blog.nubecolectiva.com/como-crear-una-base-de-datos-mediante-comando-en-laravel-5-8/ 
